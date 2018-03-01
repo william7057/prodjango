@@ -71,7 +71,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'pd110.wsgi.application'
 
 
-# Database modicado =)
+# Database modicado =) enviado desde la muni
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
