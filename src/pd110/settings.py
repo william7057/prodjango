@@ -71,7 +71,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'pd110.wsgi.application'
 
 
-# Database
+# Database modicado =)
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
@@ -79,8 +79,8 @@ DATABASES = {
         'ENGINE': 'mysql_cymysql',
         'NAME': 'DatosDB',
         'USER': 'root',
-        'PASSWORD': 'salserin',
-        'HOST': '127.0.0.1',
+        'PASSWORD': 'Pedre1$$2',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
