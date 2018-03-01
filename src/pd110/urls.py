@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+from webcodigo.views import lista_bebidas
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^$',lista_bebidas, name='lista'),
 ]
