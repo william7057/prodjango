@@ -1,0 +1,6 @@
+cymysql==0.9.4
+Django==1.11
+django-cymysql==2.0.0
+pipi==1.0.1
+pkg-resources==0.0.0
+pytz==2018.3
